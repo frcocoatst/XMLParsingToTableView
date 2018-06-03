@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for U.S. Dollar (USD)</title>
+	<link>http://www.floatrates.com/currency/usd/</link>
+	<xmlLink>http://www.floatrates.com/daily/usd.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for U.S. Dollar (USD) from the Float Rates. Published at Fri, 6 Apr 2018 12:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>USD</baseCurrency>
+	<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+	<lastBuildDate>Fri, 6 Apr 2018 12:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 USD = 0.81722924 EUR</title>
+		<link>http://www.floatrates.com/usd/eur/</link>
+		<description>1 U.S. Dollar = 0.81722924 Euro</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.81722924</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.71412582 GBP</title>
+		<link>http://www.floatrates.com/usd/gbp/</link>
+		<description>1 U.S. Dollar = 0.71412582 U.K. Pound Sterling</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.71412582</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.30192982 AUD</title>
+		<link>http://www.floatrates.com/usd/aud/</link>
+		<description>1 U.S. Dollar = 1.30192982 Australian Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.30192982</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 107.33520989 JPY</title>
+		<link>http://www.floatrates.com/usd/jpy/</link>
+		<description>1 U.S. Dollar = 107.33520989 Japanese Yen</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>107.33520989</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.96286565 CHF</title>
+		<link>http://www.floatrates.com/usd/chf/</link>
+		<description>1 U.S. Dollar = 0.96286565 Swiss Franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.96286565</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.27885608 CAD</title>
+		<link>http://www.floatrates.com/usd/cad/</link>
+		<description>1 U.S. Dollar = 1.27885608 Canadian Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.27885608</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.38464220 OMR</title>
+		<link>http://www.floatrates.com/usd/omr/</link>
+		<description>1 U.S. Dollar = 0.38464220 Omani Rial</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.38464220</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.00038175 BBD</title>
+		<link>http://www.floatrates.com/usd/bbd/</link>
+		<description>1 U.S. Dollar = 2.00038175 Barbadian Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>2.00038175</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.22692739 PEN</title>
+		<link>http://www.floatrates.com/usd/pen/</link>
+		<description>1 U.S. Dollar = 3.22692739 Peruvian Nuevo Sol</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>3.22692739</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 20.21359501 ARS</title>
+		<link>http://www.floatrates.com/usd/ars/</link>
+		<description>1 U.S. Dollar = 20.21359501 Argentine Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>20.21359501</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.00265895 BSD</title>
+		<link>http://www.floatrates.com/usd/bsd/</link>
+		<description>1 U.S. Dollar = 1.00265895 Bahamian Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>1.00265895</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 400.96985277 KMF</title>
+		<link>http://www.floatrates.com/usd/kmf/</link>
+		<description>1 U.S. Dollar = 400.96985277 	Comoro franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>400.96985277</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 106.17264851 ALL</title>
+		<link>http://www.floatrates.com/usd/all/</link>
+		<description>1 U.S. Dollar = 106.17264851 Albanian lek</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>106.17264851</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 101.30188345 KES</title>
+		<link>http://www.floatrates.com/usd/kes/</link>
+		<description>1 U.S. Dollar = 101.30188345 Kenyan shilling</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>101.30188345</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 20.66304335 CZK</title>
+		<link>http://www.floatrates.com/usd/czk/</link>
+		<description>1 U.S. Dollar = 20.66304335 Czech Koruna</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>20.66304335</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.64146851 QAR</title>
+		<link>http://www.floatrates.com/usd/qar/</link>
+		<description>1 U.S. Dollar = 3.64146851 Qatari Rial</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>3.64146851</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.59607392 BGN</title>
+		<link>http://www.floatrates.com/usd/bgn/</link>
+		<description>1 U.S. Dollar = 1.59607392 Bulgarian Lev</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.59607392</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.70374122 AZN</title>
+		<link>http://www.floatrates.com/usd/azn/</link>
+		<description>1 U.S. Dollar = 1.70374122 Azerbaijan Manat</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>1.70374122</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 6.90247521 BOB</title>
+		<link>http://www.floatrates.com/usd/bob/</link>
+		<description>1 U.S. Dollar = 6.90247521 Bolivian Boliviano</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>6.90247521</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 206.99119315 GYD</title>
+		<link>http://www.floatrates.com/usd/gyd/</link>
+		<description>1 U.S. Dollar = 206.99119315 Guyanese dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>206.99119315</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.71223977 GIP</title>
+		<link>http://www.floatrates.com/usd/gip/</link>
+		<description>1 U.S. Dollar = 0.71223977 Gibraltar pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.71223977</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 11.90666204 SZL</title>
+		<link>http://www.floatrates.com/usd/szl/</link>
+		<description>1 U.S. Dollar = 11.90666204 Swazi lilangeni</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>11.90666204</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3,701.72599784 UGX</title>
+		<link>http://www.floatrates.com/usd/ugx/</link>
+		<description>1 U.S. Dollar = 3,701.72599784 Ugandan shilling</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>3,701.72599784</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 6.30369803 CNY</title>
+		<link>http://www.floatrates.com/usd/cny/</link>
+		<description>1 U.S. Dollar = 6.30369803 Chinese Yuan</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>6.30369803</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 99.02898210 ISK</title>
+		<link>http://www.floatrates.com/usd/isk/</link>
+		<description>1 U.S. Dollar = 99.02898210 Icelandic Krona</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>99.02898210</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.31650303 SGD</title>
+		<link>http://www.floatrates.com/usd/sgd/</link>
+		<description>1 U.S. Dollar = 1.31650303 Singapore Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.31650303</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 4.04259321 TRY</title>
+		<link>http://www.floatrates.com/usd/try/</link>
+		<description>1 U.S. Dollar = 4.04259321 Turkish Lira</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>4.04259321</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 16.39737445 MDL</title>
+		<link>http://www.floatrates.com/usd/mdl/</link>
+		<description>1 U.S. Dollar = 16.39737445 Moldova Lei</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>16.39737445</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 69.83393708 AFN</title>
+		<link>http://www.floatrates.com/usd/afn/</link>
+		<description>1 U.S. Dollar = 69.83393708 Afghan afghani</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>69.83393708</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 11.90253208 NAD</title>
+		<link>http://www.floatrates.com/usd/nad/</link>
+		<description>1 U.S. Dollar = 11.90253208 Namibian dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>11.90253208</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 519.92424242 SYP</title>
+		<link>http://www.floatrates.com/usd/syp/</link>
+		<description>1 U.S. Dollar = 519.92424242 Syrian pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>519.92424242</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 15.12340238 ERN</title>
+		<link>http://www.floatrates.com/usd/ern/</link>
+		<description>1 U.S. Dollar = 15.12340238 Eritrean nakfa</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>15.12340238</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 109.21040069 VUV</title>
+		<link>http://www.floatrates.com/usd/vuv/</link>
+		<description>1 U.S. Dollar = 109.21040069 Vanuatu vatu</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>109.21040069</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.53645800 ILS</title>
+		<link>http://www.floatrates.com/usd/ils/</link>
+		<description>1 U.S. Dollar = 3.53645800 Israeli New Sheqel</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>3.53645800</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8.40861005 SEK</title>
+		<link>http://www.floatrates.com/usd/sek/</link>
+		<description>1 U.S. Dollar = 8.40861005 Swedish Krona</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>8.40861005</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 52.06334846 PHP</title>
+		<link>http://www.floatrates.com/usd/php/</link>
+		<description>1 U.S. Dollar = 52.06334846 Philippine Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>52.06334846</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8,108.55244513 UZS</title>
+		<link>http://www.floatrates.com/usd/uzs/</link>
+		<description>1 U.S. Dollar = 8,108.55244513 Uzbekistan Sum</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>8,108.55244513</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 27.49599359 ETB</title>
+		<link>http://www.floatrates.com/usd/etb/</link>
+		<description>1 U.S. Dollar = 27.49599359 Ethiopian birr</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>27.49599359</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7.80241019 SBD</title>
+		<link>http://www.floatrates.com/usd/sbd/</link>
+		<description>1 U.S. Dollar = 7.80241019 Solomon Islands dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>7.80241019</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.79022329 ANG</title>
+		<link>http://www.floatrates.com/usd/ang/</link>
+		<description>1 U.S. Dollar = 1.79022329 Neth. Antillean Guilder</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>1.79022329</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8.11229314 MOP</title>
+		<link>http://www.floatrates.com/usd/mop/</link>
+		<description>1 U.S. Dollar = 8.11229314 Macanese pataca</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>8.11229314</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.29998911 KWD</title>
+		<link>http://www.floatrates.com/usd/kwd/</link>
+		<description>1 U.S. Dollar = 0.29998911 Kuwaiti Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.29998911</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 33.57948680 MUR</title>
+		<link>http://www.floatrates.com/usd/mur/</link>
+		<description>1 U.S. Dollar = 33.57948680 Mauritian Rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>33.57948680</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 6.74626698 TTD</title>
+		<link>http://www.floatrates.com/usd/ttd/</link>
+		<description>1 U.S. Dollar = 6.74626698 Trinidad Tobago Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>6.74626698</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 29.15017110 TWD</title>
+		<link>http://www.floatrates.com/usd/twd/</link>
+		<description>1 U.S. Dollar = 29.15017110 New Taiwan Dollar </description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>29.15017110</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 37,974.60928935 IRR</title>
+		<link>http://www.floatrates.com/usd/irr/</link>
+		<description>1 U.S. Dollar = 37,974.60928935 Iranian rial</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>37,974.60928935</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 50.24673100 MKD</title>
+		<link>http://www.floatrates.com/usd/mkd/</link>
+		<description>1 U.S. Dollar = 50.24673100 Macedonian denar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>50.24673100</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,766.08337622 BIF</title>
+		<link>http://www.floatrates.com/usd/bif/</link>
+		<description>1 U.S. Dollar = 1,766.08337622 Burundian franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>1,766.08337622</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 9.36289222 ZMW</title>
+		<link>http://www.floatrates.com/usd/zmw/</link>
+		<description>1 U.S. Dollar = 9.36289222 Zambian kwacha</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>9.36289222</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 250.78564642 YER</title>
+		<link>http://www.floatrates.com/usd/yer/</link>
+		<description>1 U.S. Dollar = 250.78564642 Yemeni rial</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>250.78564642</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.31298850 BND</title>
+		<link>http://www.floatrates.com/usd/bnd/</link>
+		<description>1 U.S. Dollar = 1.31298850 Brunei Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.31298850</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7.82409394 NOK</title>
+		<link>http://www.floatrates.com/usd/nok/</link>
+		<description>1 U.S. Dollar = 7.82409394 Norwegian Krone</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>7.82409394</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 47,201.98324621 VEF</title>
+		<link>http://www.floatrates.com/usd/vef/</link>
+		<description>1 U.S. Dollar = 47,201.98324621 Venezuelan Bolivar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>47,201.98324621</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 310.10280073 NGN</title>
+		<link>http://www.floatrates.com/usd/ngn/</link>
+		<description>1 U.S. Dollar = 310.10280073 Nigerian Naira</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>310.10280073</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,518.86672850 LBP</title>
+		<link>http://www.floatrates.com/usd/lbp/</link>
+		<description>1 U.S. Dollar = 1,518.86672850 Lebanese Pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>1,518.86672850</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 20.52332536 STN</title>
+		<link>http://www.floatrates.com/usd/stn/</link>
+		<description>1 U.S. Dollar = 20.52332536 São Tomé and Príncipe Dobra</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>20.52332536</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 9,054.08970976 GNF</title>
+		<link>http://www.floatrates.com/usd/gnf/</link>
+		<description>1 U.S. Dollar = 9,054.08970976 Guinean franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>9,054.08970976</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.39095596 GEL</title>
+		<link>http://www.floatrates.com/usd/gel/</link>
+		<description>1 U.S. Dollar = 2.39095596 Georgian lari</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>2.39095596</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 13.49390484 SCR</title>
+		<link>http://www.floatrates.com/usd/scr/</link>
+		<description>1 U.S. Dollar = 13.49390484 Seychelles rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>13.49390484</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2,791.56359062 COP</title>
+		<link>http://www.floatrates.com/usd/cop/</link>
+		<description>1 U.S. Dollar = 2,791.56359062 Colombian Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>2,791.56359062</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.42995020 PLN</title>
+		<link>http://www.floatrates.com/usd/pln/</link>
+		<description>1 U.S. Dollar = 3.42995020 Polish Zloty</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>3.42995020</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 49.45060658 DOP</title>
+		<link>http://www.floatrates.com/usd/dop/</link>
+		<description>1 U.S. Dollar = 49.45060658 Dominican Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>49.45060658</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 83.91824795 BDT</title>
+		<link>http://www.floatrates.com/usd/bdt/</link>
+		<description>1 U.S. Dollar = 83.91824795 Bangladeshi taka</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>83.91824795</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 28.36632848 UYU</title>
+		<link>http://www.floatrates.com/usd/uyu/</link>
+		<description>1 U.S. Dollar = 28.36632848 Uruguayan Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>28.36632848</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.03565284 FJD</title>
+		<link>http://www.floatrates.com/usd/fjd/</link>
+		<description>1 U.S. Dollar = 2.03565284 Fiji Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>2.03565284</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 868.73417722 RWF</title>
+		<link>http://www.floatrates.com/usd/rwf/</link>
+		<description>1 U.S. Dollar = 868.73417722 Rwandan franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>868.73417722</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7,834.47488585 SLL</title>
+		<link>http://www.floatrates.com/usd/sll/</link>
+		<description>1 U.S. Dollar = 7,834.47488585 Sierra Leonean leone</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SLL</targetCurrency>
+		<targetName>Sierra Leonean leone</targetName>
+		<exchangeRate>7,834.47488585</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2,269.51058201 TZS</title>
+		<link>http://www.floatrates.com/usd/tzs/</link>
+		<description>1 U.S. Dollar = 2,269.51058201 Tanzanian shilling</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>2,269.51058201</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 253.85665492 HUF</title>
+		<link>http://www.floatrates.com/usd/huf/</link>
+		<description>1 U.S. Dollar = 253.85665492 Hungarian Forint</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>253.85665492</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.75034182 SAR</title>
+		<link>http://www.floatrates.com/usd/sar/</link>
+		<description>1 U.S. Dollar = 3.75034182 Saudi Riyal</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>3.75034182</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 6.06183619 HRK</title>
+		<link>http://www.floatrates.com/usd/hrk/</link>
+		<description>1 U.S. Dollar = 6.06183619 Croatian Kuna</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>6.06183619</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 68.49500031 KGS</title>
+		<link>http://www.floatrates.com/usd/kgs/</link>
+		<description>1 U.S. Dollar = 68.49500031 Kyrgyzstan Som</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>68.49500031</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 31.22043843 NIO</title>
+		<link>http://www.floatrates.com/usd/nio/</link>
+		<description>1 U.S. Dollar = 31.22043843 Nicaraguan Córdoba</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>31.22043843</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 132.49034749 LRD</title>
+		<link>http://www.floatrates.com/usd/lrd/</link>
+		<description>1 U.S. Dollar = 132.49034749 Liberian dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>132.49034749</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 18.21390658 SDG</title>
+		<link>http://www.floatrates.com/usd/sdg/</link>
+		<description>1 U.S. Dollar = 18.21390658 Sudanese pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>18.21390658</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 62.27767695 MZN</title>
+		<link>http://www.floatrates.com/usd/mzn/</link>
+		<description>1 U.S. Dollar = 62.27767695 Mozambican metical</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>62.27767695</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2,396.29888268 MNT</title>
+		<link>http://www.floatrates.com/usd/mnt/</link>
+		<description>1 U.S. Dollar = 2,396.29888268 Mongolian togrog</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>2,396.29888268</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 13,772.76937335 IDR</title>
+		<link>http://www.floatrates.com/usd/idr/</link>
+		<description>1 U.S. Dollar = 13,772.76937335 Indonesian Rupiah</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>13,772.76937335</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 156.06953575 LKR</title>
+		<link>http://www.floatrates.com/usd/lkr/</link>
+		<description>1 U.S. Dollar = 156.06953575 Sri Lanka Rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>156.06953575</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 18.12019024 MXN</title>
+		<link>http://www.floatrates.com/usd/mxn/</link>
+		<description>1 U.S. Dollar = 18.12019024 Mexican Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>18.12019024</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8.83033512 TJS</title>
+		<link>http://www.floatrates.com/usd/tjs/</link>
+		<description>1 U.S. Dollar = 8.83033512 Tajikistan Ruble</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>8.83033512</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.00265895 PAB</title>
+		<link>http://www.floatrates.com/usd/pab/</link>
+		<description>1 U.S. Dollar = 1.00265895 Panamanian Balboa</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>1.00265895</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.71651362 XCD</title>
+		<link>http://www.floatrates.com/usd/xcd/</link>
+		<description>1 U.S. Dollar = 2.71651362 East Caribbean Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>2.71651362</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 64.62335217 HTG</title>
+		<link>http://www.floatrates.com/usd/htg/</link>
+		<description>1 U.S. Dollar = 64.62335217 Haitian gourde</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>64.62335217</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.18219396 TOP</title>
+		<link>http://www.floatrates.com/usd/top/</link>
+		<description>1 U.S. Dollar = 2.18219396 Tongan paʻanga</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>2.18219396</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 114.35432957 DZD</title>
+		<link>http://www.floatrates.com/usd/dzd/</link>
+		<description>1 U.S. Dollar = 114.35432957 Algerian Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>114.35432957</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,065.50807593 KRW</title>
+		<link>http://www.floatrates.com/usd/krw/</link>
+		<description>1 U.S. Dollar = 1,065.50807593 South Korean Won</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1,065.50807593</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.86926700 MYR</title>
+		<link>http://www.floatrates.com/usd/myr/</link>
+		<description>1 U.S. Dollar = 3.86926700 Malaysian Ringgit</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>3.86926700</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 31.24620431 THB</title>
+		<link>http://www.floatrates.com/usd/thb/</link>
+		<description>1 U.S. Dollar = 31.24620431 Thai Baht</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>31.24620431</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 536.05642176 XOF</title>
+		<link>http://www.floatrates.com/usd/xof/</link>
+		<description>1 U.S. Dollar = 536.05642176 West African CFA Franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>536.05642176</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 17.66453148 EGP</title>
+		<link>http://www.floatrates.com/usd/egp/</link>
+		<description>1 U.S. Dollar = 17.66453148 Egyptian Pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>17.66453148</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 47.85913529 GMD</title>
+		<link>http://www.floatrates.com/usd/gmd/</link>
+		<description>1 U.S. Dollar = 47.85913529 Gambian dalasi</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>47.85913529</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.79022329 AWG</title>
+		<link>http://www.floatrates.com/usd/awg/</link>
+		<description>1 U.S. Dollar = 1.79022329 Aruban florin</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>1.79022329</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 727.62934690 MWK</title>
+		<link>http://www.floatrates.com/usd/mwk/</link>
+		<description>1 U.S. Dollar = 727.62934690 Malawian kwacha</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>727.62934690</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7.43876003 GTQ</title>
+		<link>http://www.floatrates.com/usd/gtq/</link>
+		<description>1 U.S. Dollar = 7.43876003 Guatemalan Quetzal</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>7.43876003</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 9.60591647 BWP</title>
+		<link>http://www.floatrates.com/usd/bwp/</link>
+		<description>1 U.S. Dollar = 9.60591647 Botswana Pula</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>9.60591647</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.37495203 NZD</title>
+		<link>http://www.floatrates.com/usd/nzd/</link>
+		<description>1 U.S. Dollar = 1.37495203 New Zealand Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.37495203</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.67262747 AED</title>
+		<link>http://www.floatrates.com/usd/aed/</link>
+		<description>1 U.S. Dollar = 3.67262747 U.A.E Dirham</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>3.67262747</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.25216427 PGK</title>
+		<link>http://www.floatrates.com/usd/pgk/</link>
+		<description>1 U.S. Dollar = 3.25216427 Papua New Guinean kina</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>3.25216427</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.71069104 JOD</title>
+		<link>http://www.floatrates.com/usd/jod/</link>
+		<description>1 U.S. Dollar = 0.71069104 Jordanian Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.71069104</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 9.24185295 MAD</title>
+		<link>http://www.floatrates.com/usd/mad/</link>
+		<description>1 U.S. Dollar = 9.24185295 Moroccan Dirham</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>9.24185295</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 177.45772354 DJF</title>
+		<link>http://www.floatrates.com/usd/djf/</link>
+		<description>1 U.S. Dollar = 177.45772354 Djiboutian franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>177.45772354</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,333.65720948 MMK</title>
+		<link>http://www.floatrates.com/usd/mmk/</link>
+		<description>1 U.S. Dollar = 1,333.65720948 Myanma Kyat</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>1,333.65720948</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 15.50610032 MVR</title>
+		<link>http://www.floatrates.com/usd/mvr/</link>
+		<description>1 U.S. Dollar = 15.50610032 Maldivian rufiyaa</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>15.50610032</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 604.70303649 CLP</title>
+		<link>http://www.floatrates.com/usd/clp/</link>
+		<description>1 U.S. Dollar = 604.70303649 Chilean Peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>604.70303649</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 115.62017156 PKR</title>
+		<link>http://www.floatrates.com/usd/pkr/</link>
+		<description>1 U.S. Dollar = 115.62017156 Pakistani Rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>115.62017156</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.31844047 BRL</title>
+		<link>http://www.floatrates.com/usd/brl/</link>
+		<description>1 U.S. Dollar = 3.31844047 Brazilian Real</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>3.31844047</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.96442538 BYN</title>
+		<link>http://www.floatrates.com/usd/byn/</link>
+		<description>1 U.S. Dollar = 1.96442538 Belarussian Ruble</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>1.96442538</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 5,542.42353064 PYG</title>
+		<link>http://www.floatrates.com/usd/pyg/</link>
+		<description>1 U.S. Dollar = 5,542.42353064 Paraguayan Guaraní</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>5,542.42353064</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.01592057 BZD</title>
+		<link>http://www.floatrates.com/usd/bzd/</link>
+		<description>1 U.S. Dollar = 2.01592057 Belize dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>2.01592057</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,611.78957257 CDF</title>
+		<link>http://www.floatrates.com/usd/cdf/</link>
+		<description>1 U.S. Dollar = 1,611.78957257 Congolese franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>1,611.78957257</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 23.74740484 HNL</title>
+		<link>http://www.floatrates.com/usd/hnl/</link>
+		<description>1 U.S. Dollar = 23.74740484 Honduran Lempira</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>23.74740484</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 580.23334461 SOS</title>
+		<link>http://www.floatrates.com/usd/sos/</link>
+		<description>1 U.S. Dollar = 580.23334461 Somali shilling</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>580.23334461</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 6.07575235 DKK</title>
+		<link>http://www.floatrates.com/usd/dkk/</link>
+		<description>1 U.S. Dollar = 6.07575235 Danish Krone</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>6.07575235</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 57.62621062 RUB</title>
+		<link>http://www.floatrates.com/usd/rub/</link>
+		<description>1 U.S. Dollar = 57.62621062 Russian Rouble</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>57.62621062</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.80458276 RON</title>
+		<link>http://www.floatrates.com/usd/ron/</link>
+		<description>1 U.S. Dollar = 3.80458276 Romanian New Leu</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>3.80458276</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 480.31857635 AMD</title>
+		<link>http://www.floatrates.com/usd/amd/</link>
+		<description>1 U.S. Dollar = 480.31857635 Armenia Dram</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>480.31857635</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 567.75281643 CRC</title>
+		<link>http://www.floatrates.com/usd/crc/</link>
+		<description>1 U.S. Dollar = 567.75281643 Costa Rican Colón</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>567.75281643</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 125.23722628 JMD</title>
+		<link>http://www.floatrates.com/usd/jmd/</link>
+		<description>1 U.S. Dollar = 125.23722628 Jamaican Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>125.23722628</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 133.96970407 SSP</title>
+		<link>http://www.floatrates.com/usd/ssp/</link>
+		<description>1 U.S. Dollar = 133.96970407 South Sudanese pound</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>133.96970407</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 11.90666204 LSL</title>
+		<link>http://www.floatrates.com/usd/lsl/</link>
+		<description>1 U.S. Dollar = 11.90666204 Lesotho loti</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>11.90666204</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.55338939 WST</title>
+		<link>http://www.floatrates.com/usd/wst/</link>
+		<description>1 U.S. Dollar = 2.55338939 Samoan tala</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>2.55338939</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 65.00377427 INR</title>
+		<link>http://www.floatrates.com/usd/inr/</link>
+		<description>1 U.S. Dollar = 65.00377427 Indian Rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>65.00377427</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 11.94987067 ZAR</title>
+		<link>http://www.floatrates.com/usd/zar/</link>
+		<description>1 U.S. Dollar = 11.94987067 South African Rand</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>11.94987067</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7.84894222 HKD</title>
+		<link>http://www.floatrates.com/usd/hkd/</link>
+		<description>1 U.S. Dollar = 7.84894222 Hong Kong Dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>7.84894222</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3.49717061 TMT</title>
+		<link>http://www.floatrates.com/usd/tmt/</link>
+		<description>1 U.S. Dollar = 3.49717061 New Turkmenistan Manat</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>3.49717061</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 3,240.32105760 MGA</title>
+		<link>http://www.floatrates.com/usd/mga/</link>
+		<description>1 U.S. Dollar = 3,240.32105760 Malagasy ariary</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>3,240.32105760</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 7.49726895 SRD</title>
+		<link>http://www.floatrates.com/usd/srd/</link>
+		<description>1 U.S. Dollar = 7.49726895 Surinamese dollar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>7.49726895</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 4.45533628 GHS</title>
+		<link>http://www.floatrates.com/usd/ghs/</link>
+		<description>1 U.S. Dollar = 4.45533628 Ghanaian Cedi</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>4.45533628</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 35.37628866 MRU</title>
+		<link>http://www.floatrates.com/usd/mru/</link>
+		<description>1 U.S. Dollar = 35.37628866 Mauritanian ouguiya</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>35.37628866</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.59552704 BAM</title>
+		<link>http://www.floatrates.com/usd/bam/</link>
+		<description>1 U.S. Dollar = 1.59552704 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>1.59552704</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 319.71440064 KZT</title>
+		<link>http://www.floatrates.com/usd/kzt/</link>
+		<description>1 U.S. Dollar = 319.71440064 Kazakhstani Tenge</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>319.71440064</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 536.05642176 XAF</title>
+		<link>http://www.floatrates.com/usd/xaf/</link>
+		<description>1 U.S. Dollar = 536.05642176 Central African CFA Franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>536.05642176</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 26.03120603 UAH</title>
+		<link>http://www.floatrates.com/usd/uah/</link>
+		<description>1 U.S. Dollar = 26.03120603 Ukrainian Hryvnia</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>26.03120603</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8.78070624 SVC</title>
+		<link>http://www.floatrates.com/usd/svc/</link>
+		<description>1 U.S. Dollar = 8.78070624 Salvadoran colon</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>8.78070624</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 90.54089710 CVE</title>
+		<link>http://www.floatrates.com/usd/cve/</link>
+		<description>1 U.S. Dollar = 90.54089710 Cape Verde escudo</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>90.54089710</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 8,308.71670702 LAK</title>
+		<link>http://www.floatrates.com/usd/lak/</link>
+		<description>1 U.S. Dollar = 8,308.71670702 Lao kip</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>8,308.71670702</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1.00265895 CUP</title>
+		<link>http://www.floatrates.com/usd/cup/</link>
+		<description>1 U.S. Dollar = 1.00265895 Cuban peso</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>1.00265895</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.37610122 BHD</title>
+		<link>http://www.floatrates.com/usd/bhd/</link>
+		<description>1 U.S. Dollar = 0.37610122 Bahrain Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.37610122</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 0.71976154 LYD</title>
+		<link>http://www.floatrates.com/usd/lyd/</link>
+		<description>1 U.S. Dollar = 0.71976154 Libyan Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.71976154</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 104.25030883 NPR</title>
+		<link>http://www.floatrates.com/usd/npr/</link>
+		<description>1 U.S. Dollar = 104.25030883 Nepalese Rupee</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>104.25030883</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 2.42580359 TND</title>
+		<link>http://www.floatrates.com/usd/tnd/</link>
+		<description>1 U.S. Dollar = 2.42580359 Tunisian Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>2.42580359</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 22,804.69002133 VND</title>
+		<link>http://www.floatrates.com/usd/vnd/</link>
+		<description>1 U.S. Dollar = 22,804.69002133 Vietnamese Dong</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>22,804.69002133</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 96.25218674 RSD</title>
+		<link>http://www.floatrates.com/usd/rsd/</link>
+		<description>1 U.S. Dollar = 96.25218674 Serbian Dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>96.25218674</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 1,196.89570980 IQD</title>
+		<link>http://www.floatrates.com/usd/iqd/</link>
+		<description>1 U.S. Dollar = 1,196.89570980 Iraqi dinar</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>1,196.89570980</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 97.34475618 XPF</title>
+		<link>http://www.floatrates.com/usd/xpf/</link>
+		<description>1 U.S. Dollar = 97.34475618 CFP Franc</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>97.34475618</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 215.81761006 AOA</title>
+		<link>http://www.floatrates.com/usd/aoa/</link>
+		<description>1 U.S. Dollar = 215.81761006 Angolan kwanza</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>215.81761006</exchangeRate>
+	</item>
+	<item>
+		<title>1 USD = 4,032.31492362 KHR</title>
+		<link>http://www.floatrates.com/usd/khr/</link>
+		<description>1 U.S. Dollar = 4,032.31492362 Cambodian riel</description>
+		<pubDate>Fri, 6 Apr 2018 12:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>4,032.31492362</exchangeRate>
+	</item>
+</channel>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<catalog>
+    <book id="1">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+    </book>
+    <book id="2">
+        <title>1984</title>
+        <author>George Orwell</author>
+    </book>
+    <book id="3">
+        <title>The Lord of the Rings</title>
+        <author>J.R.R Tolkien</author>
+    </book>
+    <book id="4">
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+    </book>
+    <book id="5">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+    </book>
+    <book id="6">
+        <title>Der kleine Prinz</title>
+        <author>Antoine de Saint-Exupery</author>
+    </book>
+    <book id="7">
+        <title>Der Medicus</title>
+        <author>Noah Gordon</author>
+    </book>
+    <book id="8">
+        <title>Harry Potter und der Stein der Weisen</title>
+        <author>Joanne K. Rowling</author>
+    </book>
+    <book id="9">
+        <title>Der Vorleser</title>
+        <author>Bernhard Schlink </author>
+    </book>
+    <book id="10">
+        <title>Der Schatten des Windes</title>
+        <author>Carlos Ruiz Zafon</author>
+    </book>
+    <book id="11">
+        <title>Der Name der Rose</title>
+        <author>Umberto Eco</author>
+    </book>
+    <book id="12">
+        <title>Illuminati</title>
+        <author>Dan Brown</author>
+    </book>
+    <book id="13">
+        <title>Harry Potter und der Orden des Phönix</title>
+        <author>Joanne K. Rowling</author>
+    </book>
+    <book id="14">
+        <title>Der Zauberberg</title>
+        <author>Thomas Mann</author>
+    </book>
+    <book id="15">
+        <title>Siddhartha - Eine indische Dichtung</title>
+        <author>Hermann Hesse</author>
+    </book>
+</catalog>
